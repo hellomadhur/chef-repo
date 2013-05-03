@@ -1,5 +1,7 @@
 .rake_test_cache
-
+.chef/
+.vagrant/
+Vagrantfile
 ###
 # Ignore Chef key files and secrets
 ###
